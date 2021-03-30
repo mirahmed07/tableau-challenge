@@ -12,7 +12,7 @@ However, while the data has been regularly updated, the team has yet to implemen
 
 **The ask in this assignment was to aggregate the data found in the Citi Bike Trip History Logs (https://www.citibikenyc.com/system-data) and find two unexpected phenomena.**
 
-**2-5 visualizations were designed for each discovered phenomena (4-10 total). A timespan of Jan 2019 to Dec 2019 was chosen to work with.**
+**2-5 visualizations were designed for each discovered phenomena. A timespan of Jan 2020 to Dec 2020 was chosen to work with.**
 
 
 Data was cleaned and prepped using Jupyter Notebook.
